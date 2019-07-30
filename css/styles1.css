@@ -61,3 +61,7 @@ input[type=submit]{
 input[type=submit]:hover{
   background-color: pink;
 }
+
+img{
+  padding: 14px 16px;
+}
