@@ -35,6 +35,12 @@ h1 {
   font-family: Arial
 }
 
+p{
+  text-align: center;
+  font-family: Arial;
+
+}
+
 li {
   list-style: none;
   color: white;
