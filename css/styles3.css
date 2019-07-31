@@ -1,0 +1,77 @@
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+  font-family:arial;
+}
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 14px 16px;
+
+}
+.topnav a:hover {
+  background-color: #ffff;
+  color: black;
+  padding: 14px 16px;
+}
+.topnav a.active {
+  background-color: #333;
+  color: white;
+}
+body {
+  background-color: black;
+  color: white;
+}
+.container{
+  font-family: Arial;
+  padding: 14px 16px;
+}
+a {
+  font-family: Arial;
+  color: pink;
+}
+h1 {
+  font-family: Arial;
+  padding: 14px 16px;
+}
+h2 {
+  font-family: Arial;
+  color: pink;
+}
+p {
+  /* text-align: centre; */
+  vertical-align: top;
+  font-family: Arial;
+  line-height: 1.5;
+}
+
+input[type=text], select, textarea{
+  width: 100%;
+  padding:14px 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+input[type=submit]{
+  background-color: #333;
+  color: white;
+  padding:12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+input[type=submit]:hover{
+  background-color: pink;
+}
+
+img{
+  padding: 14px 16px;
+  float: left;
+}
