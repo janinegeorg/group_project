@@ -25,6 +25,16 @@ div.navbar a {
   font-size: 16px;
   padding: 14px 16px;
 }
+
+.topnav a:hover {
+  background-color: #ffff;
+  color: black;
+  padding: 14px 16px;
+}
+.topnav a.active {
+  background-color: #333;
+  color: white;
+}
   .dropdown .dropbtn {
     font-size: 16px;
     border: none;
