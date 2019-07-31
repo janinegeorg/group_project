@@ -36,7 +36,8 @@ h1 {
   font-family: Arial;
 }
 p {
-  text-align: center;
+  /* text-align: centre; */
+  vertical-align: top;
   font-family: Arial;
 }
 
